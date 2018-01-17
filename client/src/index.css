@@ -1,0 +1,28 @@
+#chatbox {
+	border: 1px solid black;
+	margin: 10px;
+    text-align: left;
+    height: 270px;
+    width: 430px;
+    overflow: auto;
+}
+
+#createBtn {
+    margin: 10px;
+}
+
+#joinBtn {
+	margin: 10px;
+}
+
+#msgField {
+	margin: 10px;
+}
+
+#roomField {
+    margin: 10px;
+}
+
+#submitMsg {
+	margin: 10px;
+}
